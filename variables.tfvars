@@ -1,4 +1,4 @@
 region = "us-west-2"
-user = "miltos"
+user = "terra-user"
 label = "hashicorp.fun"
 app = "terramino"
